@@ -1,0 +1,12 @@
+body {
+  background-color: #f5f7fa;
+}
+
+input, select {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  cursor: pointer;
+}
